@@ -1,5 +1,5 @@
 # IEEEjBHI2020
-Materials for our paper titled 'Screening for Depression with Retrospectively Harvested Private versus Public Text' (https://ieeexplore-ieee-org.ezpxy-web-p-u01.wpi.edu/document/9049136).
+Materials for our paper titled 'Screening for Depression with Retrospectively Harvested Private versus Public Text' (https://ieeexplore.ieee.org/document/9049136).
 
 Due to privacy concerns, we are unable to share the raw message data.  However, we have included two Python scripts, Tlachac_featureEngineeringTexts.ipynb and Tlachac_featureEngineeringTweets.ipynb, which we used to extract the features datasets.  All of the feature datasets used in the paper are available in the featureDataset folder.  The Python script Tlachac_machineLearningCode.ipynb inputs these feature datasets.  The results from this code were used by Tlachac_VisualizationsCode.ipynb which contains additional boxplots of the results.
 
